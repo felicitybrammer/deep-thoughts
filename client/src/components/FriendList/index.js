@@ -14,7 +14,7 @@ const FriendList = ({ friendCount, username, friends }) => {
             {friends.map (friend => (
                 <button className='btn w-100 display-block mb-2' key={friend._id}>
                   <Link to={`/profile/${friend.username}`}>
-                    {friends.username} 
+                    {friend.username} 
                   </Link>  
                 </button>
             ))}
