@@ -3,4 +3,4 @@ A MERN stack book search application built using React Router to handle client-s
 
 ## Screenshot
 
-[!screenshot](./screenshot.png)
+[!screenshot](screenshot.png)
